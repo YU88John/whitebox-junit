@@ -21,7 +21,7 @@ I already included the necessary configurations for this testing project inside 
  - Clone the repository - `git clone https://github.com/YU88John/whitebox-junit.git`
  - Install necessary `junit` packages - `mvn clean install` <br>
  - Compile the source file - `javac Utils.java`
-<br>
+
     *Note:* The `JDK` used for Maven is `JDK 17`. If any error comes up, ensure you have the same `JDK` version.
    - Check your `JDK` version - `java -version`
    - If it's different, install `JDK 17` - `sudo apt-get update` and `sudo apt install openjdk-17-jdk`
