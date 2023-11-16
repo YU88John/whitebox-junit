@@ -1,0 +1,4 @@
+name: Eve
+health: 70
+score: 120
+status: won

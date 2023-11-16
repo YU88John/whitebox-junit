@@ -1,0 +1,4 @@
+name: Bob
+health: 0
+score: 40
+status: dead

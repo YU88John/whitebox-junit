@@ -1,0 +1,4 @@
+name: Charlie
+health: 60
+score: 90
+status: alive
